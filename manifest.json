@@ -1,0 +1,21 @@
+{
+  "name": "JESHROHN Journal",
+  "short_name": "JESHROHN",
+  "description": "Premium Personal Journal and Chatbot",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff8ec3",
+  "icons": [
+    {
+      "src": "assets/new_jeshrohn_logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "assets/new_jeshrohn_logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
